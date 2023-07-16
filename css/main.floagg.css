@@ -1,0 +1,8 @@
+.flex { display: flex; }
+.block { display: block; }
+.inline-block { display: inline-block; }
+
+.aligned-page {  }
+
+img.avatar { border-radius: 100%; }
+a.link { color: blue; }
